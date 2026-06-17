@@ -1,0 +1,17 @@
+[
+    {
+        "ac_number": "24150010001",
+        "balance": 2000.0,
+        "ac_holder": "Md Ibraheem Siddiqui"
+    },
+    {
+        "ac_number": "24150010002",
+        "balance": 290.0,
+        "ac_holder": "Md Ismaile Siddiqui"
+    },
+    {
+        "ac_number": "24150010003",
+        "balance": 10000.0,
+        "ac_holder": "Md Imran"
+    }
+]

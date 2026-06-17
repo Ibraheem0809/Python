@@ -1,0 +1,402 @@
+[
+    {
+        "EmployeeID":1001,
+        "Name":"Alice Johnson",
+        "Department":"HR",
+        "Age":28,
+        "Salary":55000,
+        "City":"New York"
+    },
+    {
+        "EmployeeID":1002,
+        "Name":"Bob Smith",
+        "Department":"IT",
+        "Age":32,
+        "Salary":72000,
+        "City":"Chicago"
+    },
+    {
+        "EmployeeID":1003,
+        "Name":"Carol Davis",
+        "Department":"Finance",
+        "Age":29,
+        "Salary":68000,
+        "City":"Boston"
+    },
+    {
+        "EmployeeID":1004,
+        "Name":"David Wilson",
+        "Department":"Marketing",
+        "Age":35,
+        "Salary":61000,
+        "City":"Seattle"
+    },
+    {
+        "EmployeeID":1005,
+        "Name":"Emma Brown",
+        "Department":"IT",
+        "Age":26,
+        "Salary":70000,
+        "City":"Austin"
+    },
+    {
+        "EmployeeID":1006,
+        "Name":"Frank Miller",
+        "Department":"Finance",
+        "Age":41,
+        "Salary":85000,
+        "City":"Denver"
+    },
+    {
+        "EmployeeID":1007,
+        "Name":"Grace Taylor",
+        "Department":"HR",
+        "Age":30,
+        "Salary":58000,
+        "City":"Atlanta"
+    },
+    {
+        "EmployeeID":1008,
+        "Name":"Henry Anderson",
+        "Department":"Marketing",
+        "Age":27,
+        "Salary":59000,
+        "City":"San Diego"
+    },
+    {
+        "EmployeeID":1009,
+        "Name":"Isabella Thomas",
+        "Department":"IT",
+        "Age":33,
+        "Salary":76000,
+        "City":"Dallas"
+    },
+    {
+        "EmployeeID":1010,
+        "Name":"Jack Moore",
+        "Department":"Finance",
+        "Age":38,
+        "Salary":82000,
+        "City":"Phoenix"
+    },
+    {
+        "EmployeeID":1011,
+        "Name":"Liam White",
+        "Department":"IT",
+        "Age":25,
+        "Salary":65000,
+        "City":"Miami"
+    },
+    {
+        "EmployeeID":1012,
+        "Name":"Olivia Harris",
+        "Department":"HR",
+        "Age":31,
+        "Salary":60000,
+        "City":"Orlando"
+    },
+    {
+        "EmployeeID":1013,
+        "Name":"Noah Martin",
+        "Department":"Finance",
+        "Age":36,
+        "Salary":79000,
+        "City":"Houston"
+    },
+    {
+        "EmployeeID":1014,
+        "Name":"Emma Clark",
+        "Department":"Marketing",
+        "Age":29,
+        "Salary":62000,
+        "City":"Las Vegas"
+    },
+    {
+        "EmployeeID":1015,
+        "Name":"James Lewis",
+        "Department":"IT",
+        "Age":34,
+        "Salary":78000,
+        "City":"San Jose"
+    },
+    {
+        "EmployeeID":1016,
+        "Name":"Sophia Walker",
+        "Department":"HR",
+        "Age":27,
+        "Salary":56000,
+        "City":"Portland"
+    },
+    {
+        "EmployeeID":1017,
+        "Name":"Benjamin Hall",
+        "Department":"Finance",
+        "Age":42,
+        "Salary":90000,
+        "City":"Detroit"
+    },
+    {
+        "EmployeeID":1018,
+        "Name":"Ava Allen",
+        "Department":"Marketing",
+        "Age":26,
+        "Salary":58000,
+        "City":"Nashville"
+    },
+    {
+        "EmployeeID":1019,
+        "Name":"William Young",
+        "Department":"IT",
+        "Age":30,
+        "Salary":74000,
+        "City":"Charlotte"
+    },
+    {
+        "EmployeeID":1020,
+        "Name":"Mia King",
+        "Department":"Finance",
+        "Age":37,
+        "Salary":81000,
+        "City":"Columbus"
+    },
+    {
+        "EmployeeID":1021,
+        "Name":"Elijah Wright",
+        "Department":"HR",
+        "Age":28,
+        "Salary":57000,
+        "City":"Indianapolis"
+    },
+    {
+        "EmployeeID":1022,
+        "Name":"Charlotte Scott",
+        "Department":"Marketing",
+        "Age":32,
+        "Salary":63000,
+        "City":"Memphis"
+    },
+    {
+        "EmployeeID":1023,
+        "Name":"Lucas Green",
+        "Department":"IT",
+        "Age":29,
+        "Salary":71000,
+        "City":"Baltimore"
+    },
+    {
+        "EmployeeID":1024,
+        "Name":"Amelia Baker",
+        "Department":"Finance",
+        "Age":40,
+        "Salary":87000,
+        "City":"Milwaukee"
+    },
+    {
+        "EmployeeID":1025,
+        "Name":"Mason Adams",
+        "Department":"HR",
+        "Age":33,
+        "Salary":61000,
+        "City":"Tucson"
+    },
+    {
+        "EmployeeID":1026,
+        "Name":"Harper Nelson",
+        "Department":"Marketing",
+        "Age":31,
+        "Salary":64000,
+        "City":"Fresno"
+    },
+    {
+        "EmployeeID":1027,
+        "Name":"Ethan Carter",
+        "Department":"IT",
+        "Age":27,
+        "Salary":69000,
+        "City":"Sacramento"
+    },
+    {
+        "EmployeeID":1028,
+        "Name":"Evelyn Mitchell",
+        "Department":"Finance",
+        "Age":39,
+        "Salary":83000,
+        "City":"Kansas City"
+    },
+    {
+        "EmployeeID":1029,
+        "Name":"Alexander Perez",
+        "Department":"HR",
+        "Age":35,
+        "Salary":62000,
+        "City":"Mesa"
+    },
+    {
+        "EmployeeID":1030,
+        "Name":"Abigail Roberts",
+        "Department":"Marketing",
+        "Age":28,
+        "Salary":60000,
+        "City":"Omaha"
+    },
+    {
+        "EmployeeID":1031,
+        "Name":"Michael Turner",
+        "Department":"IT",
+        "Age":31,
+        "Salary":75000,
+        "City":"Raleigh"
+    },
+    {
+        "EmployeeID":1032,
+        "Name":"Emily Phillips",
+        "Department":"Finance",
+        "Age":43,
+        "Salary":91000,
+        "City":"Virginia Beach"
+    },
+    {
+        "EmployeeID":1033,
+        "Name":"Daniel Campbell",
+        "Department":"HR",
+        "Age":26,
+        "Salary":54000,
+        "City":"Oakland"
+    },
+    {
+        "EmployeeID":1034,
+        "Name":"Elizabeth Parker",
+        "Department":"Marketing",
+        "Age":30,
+        "Salary":65000,
+        "City":"Minneapolis"
+    },
+    {
+        "EmployeeID":1035,
+        "Name":"Matthew Evans",
+        "Department":"IT",
+        "Age":36,
+        "Salary":80000,
+        "City":"Tulsa"
+    },
+    {
+        "EmployeeID":1036,
+        "Name":"Avery Edwards",
+        "Department":"Finance",
+        "Age":38,
+        "Salary":84000,
+        "City":"Arlington"
+    },
+    {
+        "EmployeeID":1037,
+        "Name":"Joseph Collins",
+        "Department":"HR",
+        "Age":29,
+        "Salary":59000,
+        "City":"Tampa"
+    },
+    {
+        "EmployeeID":1038,
+        "Name":"Ella Stewart",
+        "Department":"Marketing",
+        "Age":34,
+        "Salary":67000,
+        "City":"New Orleans"
+    },
+    {
+        "EmployeeID":1039,
+        "Name":"David Sanchez",
+        "Department":"IT",
+        "Age":28,
+        "Salary":72000,
+        "City":"Wichita"
+    },
+    {
+        "EmployeeID":1040,
+        "Name":"Scarlett Morris",
+        "Department":"Finance",
+        "Age":41,
+        "Salary":88000,
+        "City":"Cleveland"
+    },
+    {
+        "EmployeeID":1041,
+        "Name":"Samuel Rogers",
+        "Department":"HR",
+        "Age":32,
+        "Salary":60000,
+        "City":"Bakersfield"
+    },
+    {
+        "EmployeeID":1042,
+        "Name":"Victoria Reed",
+        "Department":"Marketing",
+        "Age":27,
+        "Salary":61000,
+        "City":"Aurora"
+    },
+    {
+        "EmployeeID":1043,
+        "Name":"Andrew Cook",
+        "Department":"IT",
+        "Age":35,
+        "Salary":79000,
+        "City":"Anaheim"
+    },
+    {
+        "EmployeeID":1044,
+        "Name":"Grace Morgan",
+        "Department":"Finance",
+        "Age":37,
+        "Salary":82000,
+        "City":"Honolulu"
+    },
+    {
+        "EmployeeID":1045,
+        "Name":"Christopher Bell",
+        "Department":"HR",
+        "Age":30,
+        "Salary":58000,
+        "City":"Santa Ana"
+    },
+    {
+        "EmployeeID":1046,
+        "Name":"Chloe Murphy",
+        "Department":"Marketing",
+        "Age":29,
+        "Salary":62000,
+        "City":"Riverside"
+    },
+    {
+        "EmployeeID":1047,
+        "Name":"Joshua Bailey",
+        "Department":"IT",
+        "Age":33,
+        "Salary":77000,
+        "City":"Lexington"
+    },
+    {
+        "EmployeeID":1048,
+        "Name":"Lily Rivera",
+        "Department":"Finance",
+        "Age":40,
+        "Salary":86000,
+        "City":"Stockton"
+    },
+    {
+        "EmployeeID":1049,
+        "Name":"Ryan Cooper",
+        "Department":"HR",
+        "Age":28,
+        "Salary":57000,
+        "City":"Henderson"
+    },
+    {
+        "EmployeeID":1050,
+        "Name":"Zoe Richardson",
+        "Department":"Marketing",
+        "Age":31,
+        "Salary":66000,
+        "City":"St. Paul"
+    }
+]

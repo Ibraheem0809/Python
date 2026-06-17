@@ -1,0 +1,155 @@
+CharacterID,Name,House,Title,Status,Region
+1,Jon Snow,Stark,King in the North,Alive,The North
+1,Jon Snow,Stark,King in the North,Alive,The North
+1,Jon Snow,Stark,King in the North,Alive,The North
+2,Daenerys Targaryen,Targaryen,Queen of Meereen,Deceased,Essos
+3,Tyrion Lannister,Lannister,Hand of the King,Alive,Westerlands
+4,Cersei Lannister,Lannister,Queen of the Seven Kingdoms,Deceased,Crownlands
+5,Jaime Lannister,Lannister,Kingsguard,Deceased,Westerlands
+6,Arya Stark,Stark,Faceless Assassin,Alive,The North
+7,Sansa Stark,Stark,Queen in the North,Alive,The North
+8,Bran Stark,Stark,King of the Six Kingdoms,Alive,The North
+9,Robb Stark,Stark,King in the North,Deceased,The North
+10,Eddard Stark,Stark,Lord of Winterfell,Deceased,The North
+11,Catelyn Stark,Stark,Lady of Winterfell,Deceased,The North
+12,Rickon Stark,Stark,Prince,Deceased,The North
+13,Benjen Stark,Stark,First Ranger,Deceased,The North
+14,Lyanna Stark,Stark,Lady,Deceased,The North
+15,Theon Greyjoy,Greyjoy,Prince of Pyke,Deceased,Iron Islands
+16,Yara Greyjoy,Greyjoy,Lady of Iron Islands,Alive,Iron Islands
+17,Balon Greyjoy,Greyjoy,Lord Reaper,Deceased,Iron Islands
+18,Euron Greyjoy,Greyjoy,King of the Iron Islands,Deceased,Iron Islands
+19,Aeron Greyjoy,Greyjoy,Drowned Priest,Alive,Iron Islands
+20,Victarion Greyjoy,Greyjoy,Captain,Alive,Iron Islands
+21,Robert Baratheon,Baratheon,King of Westeros,Deceased,Crownlands
+22,Stannis Baratheon,Baratheon,King Claimant,Deceased,Dragonstone
+23,Renly Baratheon,Baratheon,Lord of Storms End,Deceased,Stormlands
+24,Joffrey Baratheon,Baratheon,King of Westeros,Deceased,Crownlands
+25,Tommen Baratheon,Baratheon,King of Westeros,Deceased,Crownlands
+26,Myrcella Baratheon,Baratheon,Princess,Deceased,Dorne
+27,Gendry Baratheon,Baratheon,Lord of Storms End,Alive,Stormlands
+28,Shireen Baratheon,Baratheon,Princess,Deceased,Dragonstone
+29,Selyse Baratheon,Baratheon,Queen,Deceased,Dragonstone
+30,Edric Storm,Baratheon,Bastard,Alive,Stormlands
+31,Tywin Lannister,Lannister,Lord of Casterly Rock,Deceased,Westerlands
+32,Kevan Lannister,Lannister,Lord Regent,Deceased,Westerlands
+33,Lancel Lannister,Lannister,Knight,Deceased,Westerlands
+34,Genna Lannister,Lannister,Lady,Alive,Westerlands
+35,Martyn Lannister,Lannister,Noble,Deceased,Westerlands
+36,Willem Lannister,Lannister,Noble,Deceased,Westerlands
+37,Joanna Lannister,Lannister,Lady,Deceased,Westerlands
+38,Petyr Baelish,Baelish,Master of Coin,Deceased,The Vale
+39,Varys,,Master of Whisperers,Deceased,Essos
+40,Bronn,,Lord of Highgarden,Alive,Reach
+41,Podrick Payne,Payne,Knight,Alive,Riverlands
+42,Brienne of Tarth,Tarth,Knight of Seven Kingdoms,Alive,Stormlands
+43,Samwell Tarly,Tarly,Grand Maester,Alive,Reach
+44,Randyll Tarly,Tarly,Lord of Horn Hill,Deceased,Reach
+45,Dickon Tarly,Tarly,Heir of Horn Hill,Deceased,Reach
+46,Gilly,,Wildling,Alive,Beyond the Wall
+47,Maester Aemon,Targaryen,Maester,Deceased,The Wall
+48,Jeor Mormont,Mormont,Lord Commander,Deceased,The Wall
+49,Jorah Mormont,Mormont,Knight,Deceased,Essos
+50,Lyanna Mormont,Mormont,Lady of Bear Island,Deceased,Bear Island
+51,Maege Mormont,Mormont,Lady,Alive,Bear Island
+52,Dacey Mormont,Mormont,Warrior,Deceased,Bear Island
+53,Oberyn Martell,Martell,Prince of Dorne,Deceased,Dorne
+54,Doran Martell,Martell,Prince of Dorne,Deceased,Dorne
+55,Trystane Martell,Martell,Prince,Deceased,Dorne
+56,Elia Martell,Martell,Princess,Deceased,Dorne
+57,Quentyn Martell,Martell,Prince,Deceased,Dorne
+58,Ellaria Sand,Sand,Ruler of Dorne,Imprisoned,Dorne
+59,Obara Sand,Sand,Sand Snake,Deceased,Dorne
+60,Nymeria Sand,Sand,Sand Snake,Deceased,Dorne
+61,Tyene Sand,Sand,Sand Snake,Deceased,Dorne
+62,Areo Hotah,Martell,Captain of Guards,Deceased,Dorne
+63,Margaery Tyrell,Tyrell,Queen Consort,Deceased,Reach
+64,Olenna Tyrell,Tyrell,Queen of Thorns,Deceased,Reach
+65,Loras Tyrell,Tyrell,Knight of Flowers,Deceased,Reach
+66,Mace Tyrell,Tyrell,Lord Paramount,Deceased,Reach
+67,Willas Tyrell,Tyrell,Heir,Alive,Reach
+68,Garlan Tyrell,Tyrell,Knight,Alive,Reach
+69,Alester Florent,Florent,Lord,Deceased,Reach
+70,Axell Florent,Florent,Knight,Deceased,Reach
+71,Davos Seaworth,Seaworth,Hand of the King,Alive,Stormlands
+72,Matthos Seaworth,Seaworth,Captain,Deceased,Stormlands
+73,Melisandre,,Red Priestess,Deceased,Asshai
+74,Beric Dondarrion,Dondarrion,Lord of Blackhaven,Deceased,Stormlands
+75,Thoros of Myr,,Red Priest,Deceased,Riverlands
+76,Sandor Clegane,Clegane,The Hound,Deceased,Westerlands
+77,Gregor Clegane,Clegane,The Mountain,Deceased,Westerlands
+78,Qyburn,,Hand of the Queen,Deceased,Crownlands
+79,Grand Maester Pycelle,,Grand Maester,Deceased,Crownlands
+80,Ygritte,Free Folk,Wildling Archer,Deceased,Beyond the Wall
+81,Tormund Giantsbane,Free Folk,Wildling Leader,Alive,Beyond the Wall
+82,Mance Rayder,Free Folk,King Beyond the Wall,Deceased,Beyond the Wall
+83,Craster,Free Folk,Wildling,Deceased,Beyond the Wall
+84,Karl Tanner,,Mutineer,Deceased,The Wall
+85,Rast,,Nights Watch Ranger,Deceased,The Wall
+86,Eddison Tollett,,Nights Watch Steward,Alive,The Wall
+87,Alliser Thorne,,Master-at-Arms,Deceased,The Wall
+88,Janos Slynt,,Lord Commander Claimant,Deceased,The Wall
+89,Qhorin Halfhand,,Ranger,Deceased,Beyond the Wall
+90,Osha,,Wildling,Alive,The North
+91,Hodor,,Stableboy,Deceased,The North
+92,Jojen Reed,Reed,Greenseer,Deceased,The North
+93,Meera Reed,Reed,Warrior,Alive,The North
+94,Howland Reed,Reed,Lord of Greywater Watch,Alive,The Neck
+95,Roose Bolton,Bolton,Lord of the Dreadfort,Deceased,The North
+96,Ramsay Bolton,Bolton,Lord of Winterfell,Deceased,The North
+97,Walda Bolton,Bolton,Lady,Deceased,The North
+98,Walder Frey,Frey,Lord of the Crossing,Deceased,Riverlands
+99,Lothar Frey,Frey,Noble,Deceased,Riverlands
+100,Black Walder Frey,Frey,Knight,Deceased,Riverlands
+101,Roslin Frey,Frey,Lady,Alive,Riverlands
+102,Edmure Tully,Tully,Lord of Riverrun,Alive,Riverlands
+103,Brynden Tully,Tully,Blackfish,Deceased,Riverlands
+104,Hoster Tully,Tully,Lord Paramount,Deceased,Riverlands
+105,Lysa Arryn,Arryn,Lady Regent,Deceased,The Vale
+106,Robin Arryn,Arryn,Lord of the Eyrie,Alive,The Vale
+107,Yohn Royce,Royce,Lord,Alive,The Vale
+108,Anya Waynwood,Waynwood,Lady,Alive,The Vale
+109,Harry Hardyng,Arryn,Heir Presumptive,Alive,The Vale
+110,Missandei,,Advisor,Deceased,Essos
+111,Grey Worm,Unsullied,Commander,Alive,Essos
+112,Hizdahr zo Loraq,,Noble,Deceased,Essos
+113,Daario Naharis,,Sellsword Captain,Alive,Essos
+114,Xaro Xhoan Daxos,,Merchant Prince,Deceased,Qarth
+115,Illyrio Mopatis,,Magister,Alive,Pentos
+116,Khal Drogo,Dothraki,Khal,Deceased,Dothraki Sea
+117,Rakharo,Dothraki,Bloodrider,Deceased,Dothraki Sea
+118,Irri,Dothraki,Handmaiden,Deceased,Dothraki Sea
+119,Jhiqui,Dothraki,Handmaiden,Alive,Dothraki Sea
+120,Viserys Targaryen,Targaryen,Beggar King,Deceased,Essos
+121,Rhaegar Targaryen,Targaryen,Prince,Deceased,Crownlands
+122,Aerys II Targaryen,Targaryen,Mad King,Deceased,Crownlands
+123,Rhaella Targaryen,Targaryen,Queen,Deceased,Dragonstone
+124,Aegon Targaryen,Targaryen,Prince,Deceased,Crownlands
+125,Aemon Targaryen,Targaryen,Dragonknight,Deceased,Westeros
+126,Barristan Selmy,Selmy,Lord Commander,Deceased,Essos
+127,Meryn Trant,,Kingsguard,Deceased,Crownlands
+128,Boros Blount,,Kingsguard,Deceased,Crownlands
+129,Preston Greenfield,,Kingsguard,Deceased,Crownlands
+130,Arys Oakheart,,Kingsguard,Deceased,Dorne
+131,Balon Swann,Swann,Kingsguard,Alive,Stormlands
+132,Loras Tyrell,Tyrell,Kingsguard,Deceased,Reach
+133,Hot Pie,,Baker,Alive,Riverlands
+134,Lommy Greenhands,,Traveler,Deceased,Riverlands
+135,Grenn,,Nights Watch Ranger,Deceased,The Wall
+136,Pyp,,Nights Watch Steward,Deceased,The Wall
+137,Dolorous Edd,,Lord Commander,Alive,The Wall
+138,Olly,,Nights Watch Boy,Deceased,The Wall
+139,Leaf,Children of the Forest,Greenseer,Deceased,Beyond the Wall
+140,Night King,White Walkers,Leader,Deceased,Far North
+141,White Walker General,White Walkers,General,Deceased,Far North
+142,Three-Eyed Raven,,Mystic,Deceased,Beyond the Wall
+143,Kinvara,,High Priestess,Alive,Volantis
+144,Yezzan zo Qaggaz,,Slave Master,Deceased,Essos
+145,Kraznys mo Nakloz,,Slave Master,Deceased,Astapor
+146,Strong Belwas,,Warrior,Alive,Essos
+147,Syrio Forel,,Sword Master,Deceased,Braavos
+148,Jaqen Hghar,Faceless Men,Assassin,Alive,Braavos
+149,Waif,Faceless Men,Assassin,Deceased,Braavos
+150,High Sparrow,,High Septon,Deceased,Crownlands
+150,High Sparrow,,High Septon,Deceased,Crownlands
+150,High Sparrow,,High Septon,Deceased,Crownlands
